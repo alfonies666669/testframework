@@ -1,0 +1,15 @@
+{
+  "tested_page": "http://the-internet.herokuapp.com/",
+  "test_alerts": "/javascript_alerts",
+  "test_scroll": "/infinite_scroll",
+  "test_upload_image": "/upload",
+  "assert_JS_Alert": "I am a JS Alert",
+  "assert_JS_Alert_bottom": "You successfully clicked an alert",
+  "assert_JS_Confirm_bottom": "You clicked: Ok",
+  "assert_JS_prompt_bottom": "You entered:",
+  "assert_JS_Confirm": "I am a JS Confirm",
+  "assert_JS_prompt": "I am a JS prompt",
+  "my_age": 25,
+  "image_path": "C:\\Users\\User\\Desktop\\Tests.png",
+  "upl": "File Uploaded!"
+}

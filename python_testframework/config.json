@@ -1,0 +1,6 @@
+{
+  "language" : "en",
+  "timeout" : 10,
+  "pollFrequency": 0.5,
+  "browser" : "chrome"
+}
